@@ -38,6 +38,12 @@ Ambos produzem a mesma ROM de teste, cujo SHA-256 é `0f12c60544d16079aaab1ede2f
 3. Revisar textos, gráficos, cenas e campanha de Mother 2.
 4. Publicar um pré-lançamento com os patches autorizados, sem ROMs.
 
-## Créditos
+## Créditos e reconhecimento
 
-Tradução anterior de Mother 1: **autoria a confirmar**. Complemento de Mother 2: projeto mantido por **alexlima222-lang**, com assistência de ferramentas e do ChatGPT. *Mother* e os recursos originais pertencem aos respectivos titulares de direitos.
+**Tradução brasileira anterior de MOTHER 1:** trabalho disponibilizado pelo projeto EarthBound Brasil, com participação histórica documentada de Alex Foffano (2011).
+
+**Tradução complementar de MOTHER 2 (GBA):** projeto independente mantido por alexlima222-lang, com assistência do ChatGPT.
+
+Esta tradução complementar não é afiliada oficialmente ao EarthBound Brasil. Reconhecemos a contribuição dos responsáveis pela tradução anterior e pretendemos solicitar autorização antes de distribuir versões que incorporem esse trabalho.
+
+MOTHER e seus elementos originais pertencem aos respectivos titulares de direitos. Nenhuma ROM comercial será distribuída.
