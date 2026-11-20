@@ -1,0 +1,25 @@
+{
+  "ROM": "MOTHER12_PTBR_ALPHA62.gba",
+  "sha256": "0f12c60544d16079aaab1ede2fed3547a3f1d4625565f387229e6c695f8d6e7b",
+  "size": 16777216,
+  "protected_BR_bank_identical": true,
+  "BR_intro_resources_B2C000_BC0000_identical": true,
+  "BR_intro_hook_identical": true,
+  "item_names_width_budget": 79,
+  "enemy_names_width_budget": 103,
+  "BPS": [
+    {
+      "name": "MOTHER12_PTBR_ALPHA62_BASE_BR.bps",
+      "bytes": 1280296,
+      "round_trip": true,
+      "wrong_base_rejected": true
+    },
+    {
+      "name": "MOTHER12_PTBR_ALPHA62_BASE_JP.bps",
+      "bytes": 1445407,
+      "round_trip": true,
+      "wrong_base_rejected": true
+    }
+  ],
+  "ordinary_game_build": true
+}
